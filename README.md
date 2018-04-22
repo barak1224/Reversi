@@ -1,5 +1,6 @@
 # Reversi
 A basic Console Reversi (Othello) Game for the Advanced Programming Course.
-Ex1 = Create a Board,and make it printable.
-Ex2 = Make the game playable PvP, showing possible moves.
-Ex3 = 
+Has the following game modes:
+1. Local human vs Local Human
+2. Local human vs AI
+3. Local human vs remote player (with TCP server)
